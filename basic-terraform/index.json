@@ -7,7 +7,6 @@
     "steps": [
       {
         "title": "Step 1",
-        "courseData" : "install-terraform.sh",
         "text": "step1.md"
       },
       {
