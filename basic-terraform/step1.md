@@ -1,5 +1,3 @@
-# Exercise One
-
 Setup Terraform Backend with Terraform Cloud
 
 1. Retrieve Backend Login Information from Interviewer

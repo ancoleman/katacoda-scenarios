@@ -6,15 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "Exercise 1",
+        "title": "Exercise One",
         "text": "step1.md"
       },
       {
-        "title": "Exercise 2",
+        "title": "Exercise Two",
         "text": "step2.md"
       },
       {
-        "title": "Exercise 3",
+        "title": "Exercise Three",
         "text": "step3.md"
       }
     ],

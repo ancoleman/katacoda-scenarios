@@ -1,5 +1,3 @@
-# Exercise Two
-
 Build a map in HCL for Amazon AWS Subnets
 
 1. Define Subnet Map value(s) in ```main.tf```
