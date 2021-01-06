@@ -2,6 +2,7 @@
   "title": "Basic Terraform Interview Lab",
   "description": "Simple lab to test the skills of a candiate with the usage of Terraform",
   "difficulty": "Intermediate",
+  "courseData" : "install-terraform.sh",
   "time": "30 minutes",
   "details": {
     "steps": [
