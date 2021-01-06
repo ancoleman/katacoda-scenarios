@@ -28,32 +28,6 @@
       {
         "title": "Step 6",
         "text": "step6.md"
-      },
-      {
-        "assets": {
-          "host01": [
-            {
-              "file": "provider.tf",
-              "target": "/root"
-            },
-            {
-              "file": "variables.tf",
-              "target": "/root"
-            },
-            {
-              "file": "outputs.tf",
-              "target": "/root"
-            },
-            {
-              "file": "main.tf",
-              "target": "/root"
-            },
-            {
-              "file": "/modules",
-              "target": "/root"
-            }
-          ]
-        }
       }
     ],
     "intro": {
@@ -63,6 +37,30 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "provider.tf",
+          "target": "/root"
+        },
+        {
+          "file": "variables.tf",
+          "target": "/root"
+        },
+        {
+          "file": "outputs.tf",
+          "target": "/root"
+        },
+        {
+          "file": "main.tf",
+          "target": "/root"
+        },
+        {
+          "file": "/modules",
+          "target": "/root"
+        }
+      ]
     }
   },
   "environment": {
