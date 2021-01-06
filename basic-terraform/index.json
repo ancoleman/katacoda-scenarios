@@ -7,6 +7,7 @@
     "steps": [
       {
         "title": "Step 1",
+        "courseData" : "install-terraform.sh",
         "text": "step1.md"
       },
       {
@@ -31,7 +32,6 @@
       }
     ],
     "intro": {
-      "courseData" : "install-terraform.sh",
       "text": "intro.md"
     },
     "finish": {
