@@ -1,9 +1,9 @@
 terraform {
   backend "remote" {
-    hostname = var.backend_remote_hostname
-    organization = var.backend_tfc_organization
+    hostname     = "app.terraform.io"
+    organization = "" # Replace with TFC Organization
     workspaces {
-      name = var.backend_tfc_workspace
+      name = "" # Replace with your TFC workspace name
     }
   }
 }
